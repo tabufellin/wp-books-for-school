@@ -1,0 +1,101 @@
+nav {
+    box-shadow: 0 2px 1px rgba(0, 0, 0, 0.04);
+    height: 26rem;
+    background-color: white;
+    overflow: hidden;
+    display: flex;
+
+    
+}
+
+.colegio {
+    color:#00a09b ;
+    width: 62rem; 
+    height: 7rem;
+    font-size: 7rem;
+    font-weight: 700;
+    padding-left: 11rem;
+    padding-top: 11rem;
+
+}
+
+.category {
+
+    width: 47rem;
+    height: 3rem;
+    color: #bdbdbd;
+    font-family: "Open Sans";
+    font-size: 4rem;
+    font-weight: 400;
+    line-height: 5rem;
+    letter-spacing: 1.37px;
+    padding-left: 1rem;
+    padding-top: 14rem;
+    padding-right: 234rem;
+
+}
+
+.liner {
+    /* Style for "Shape 16 c" */
+    width: 1px;
+    height: 49px;
+    background-color: #e6ecec;
+    margin-top: 7rem;
+
+}
+
+
+.candado {
+ 
+    width: 5rem;
+    height: 6rem;
+    padding-top: 10rem;
+    padding-right: 1rem;
+    padding-left: 9rem;
+      
+}
+
+.contrasena {
+    width: 33rem;
+    height: 4rem;
+    color: #00c4c0;
+    font-family: Montserrat;
+    font-size: 4rem;
+    font-weight: 700;
+    line-height: 4rem;
+    text-transform: uppercase;
+    padding-top: 11rem;
+    padding-right: 9rem;
+}
+
+.nombre-usuario {
+
+    /* Style for "John Doe" */
+    width: 27rem;
+    height: 6rem;
+    color: #00a09b;
+    font-family: "Open Sans";
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 4rem;
+    padding-left: 16rem;
+    padding-top: 11rem;
+    padding-right: 1rem;
+
+}
+
+.keyboard-arrow {
+
+    width: 21px;
+    height: 14px;
+    border: none;
+    padding-top: 12rem;
+    background-color: white;
+
+
+}
+
+button .keyboard-arrow {
+    padding-left: 0rem;
+    padding-right: 0rem;
+}

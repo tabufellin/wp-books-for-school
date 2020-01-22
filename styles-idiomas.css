@@ -1,0 +1,74 @@
+.idiomas {
+    height: 14rem;
+    vertical-align: middle;
+    line-height: 14rem;
+    position: relative;
+    display: flex; 
+    direction: row;
+
+
+}
+
+.cajas-lenguaje {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    direction: row;
+    width: 50rem;
+    width: 100rem;
+
+}
+
+.lenguaje {
+
+    width: 46rem;
+    height: 14rem;
+    color: #a6a7a7;
+    font-family: "Open Sans";
+    font-size: 4rem;
+    font-weight: 400;
+    text-align: center;
+   /* vertical-align: middle;
+    line-height: 10rem; */ 
+    border-bottom-style: solid;
+    border-bottom-color: #000;
+    border-color: #f1f6f6;
+    display: flex;
+    direction: row;
+
+
+}
+
+.lenguaje:hover {
+    /* Style for "Idioma Esp" */
+    color: #019c97;
+    font-family: "Open Sans";
+    font-size: 4rem;
+    font-weight: 700;
+    border-color: #019c97;
+
+}
+
+.card {
+    width: 16px;
+    height: 17px;
+    background: url("img/thrashcan-grey.png") no-repeat;
+    margin-top: 5rem;
+
+}
+
+.lenguaje:hover > .card {
+
+    width: 16px;
+    height: 17px;
+    background: url("img/thrashcan-blue.png") no-repeat;
+    margin-top: 5rem;
+
+
+}
+
+.texto-inside-idioma {
+    margin-left: 3rem;
+    margin-right: 8rem;
+}

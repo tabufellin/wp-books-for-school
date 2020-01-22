@@ -1,0 +1,69 @@
+.libros {
+    display: flex;
+    direction: row;
+}
+
+
+
+.libro {
+    height: 84rem;
+    width: 56rem;
+    margin-top: 15rem;
+    margin-right: 11rem;
+    background-color: white;
+    border-radius: 5rem;
+    display: block;
+    overflow: hidden;
+    
+}
+
+.image-libro {
+    height: 69rem;
+    width: 57rem;
+    overflow: hidden;
+}
+
+.info-libro {
+    width: 57rem;
+    height: 16rem;
+    display: flex;
+    direction: row;
+    vertical-align: center;
+    margin-top: 4rem;
+    margin-left: 4rem;
+
+}
+
+.titulo-libro {
+    /* Style for "El princip" */
+    color: #019c97;
+    font-family: "Open Sans";
+    font-size: 3rem;
+    font-weight: 700;
+
+
+}
+
+.espacio-ocupa {
+    /* Style for "15mb" */
+    color: #777777;
+    font-family: "Open Sans";
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+.tres-puntos {
+    float: rigth;
+    width: 2rem;
+    height: 6rem;
+    margin-left: 44rem;
+    border: none;
+    background-color: white;
+    position: absolute
+}
+
+
+
+
+
+

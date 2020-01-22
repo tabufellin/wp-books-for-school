@@ -1,0 +1,56 @@
+.titulo-grado-in-nav {
+    display: flex;
+    direction: row;
+    height: 19rem;
+    width: 354rem;
+    background-color: #f1f6f6  ;
+    align-content: center;
+    border-bottom-style: solid;
+    border-bottom-color: #000;
+    border-color: #d7e1e1;
+    
+}
+
+.grado-in {
+    /* Style for "Primero Bá" */
+    width: 50rem;
+    height: 6rem;
+    color: #00938e;
+    font-family: "Open Sans";
+    font-size: 7rem;
+    font-weight: 400;
+    margin-top: 2rem;
+
+}
+
+.edit-grado-in {
+
+    margin-top: 3.5rem;
+    margin-left: 4rem;
+
+}
+
+.thrash-grado-in {
+
+    margin-top: 3.5rem;
+    margin-left: 3rem;
+}
+
+.boton-agregar-libro {
+    /* Style for "Rounded Re" */
+    width: 52rem;
+    background-color: #00bc5d;
+    background-image: linear-gradient(to top, rgba(194, 194, 194, 0.15) 0%, rgba(255, 255, 255, 0.15) 100%);
+    margin-left: 149rem;
+
+}
+
+.boton-agregar-categoria {
+
+    width: 61rem;
+    background-color: #00bcb7;
+    background-image: linear-gradient(to top, rgba(194, 194, 194, 0.15) 0%, rgba(255, 255, 255, 0.15) 100%);
+    margin-left: 5rem;
+
+
+}
